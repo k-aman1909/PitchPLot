@@ -1,0 +1,180 @@
+[
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "presentationId": "id_7hlnfb25x1786080796340",
+    "presentationTitle": "html tutorial",
+    "overallScore": 85,
+    "scores": {
+      "contentQuality": 78,
+      "confidence": 85,
+      "communication": 86,
+      "fluency": 88,
+      "grammar": 92,
+      "presentationFlow": 83,
+      "timeManagement": 90
+    },
+    "metrics": {
+      "durationSeconds": 31,
+      "totalWords": 57,
+      "wpm": 110,
+      "wpmStatus": "Optimal",
+      "fillerWordCount": 0,
+      "fillerWordPercentage": 0,
+      "fillerWordsBreakdown": []
+    },
+    "transcript": "we will learn about  the i-tech which is icon tag then  where we all not know that HTML stand for hypertext markup language which is most widely used language  we use it for the web development pages HTML was created by burnersley in late 1991 but HTML 2.0 was the first standard HTML as you all know",
+    "strongAreas": [
+      "Articulated core message clearly with 57 total words spoken.",
+      "Maintained a solid baseline pace averaging 110 WPM.",
+      "Strong alignment with presentation slides and key takeaways."
+    ],
+    "weakAreas": [
+      "Minor hesitations observed during slide progression.",
+      "Transitions between problem and solution could be smoother."
+    ],
+    "suggestions": [
+      "Incorporate deliberate 1.5-second pauses after key numbers or value propositions.",
+      "Practice vocalizing pauses silently instead of using filler phrases.",
+      "Maintain direct eye contact and emphasize key slide titles at the start of each section."
+    ],
+    "summary": "Solid presentation performance with an overall score of 85/100. Focused practice on pacing and transition control will make your pitch exceptional.",
+    "_id": "id_tl4j4wc7q1786080876348",
+    "createdAt": "2026-08-07T05:34:36.348Z"
+  },
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "presentationId": "id_p54uqgnwt1786085458500",
+    "presentationTitle": "CAP100M CA2  PPT 12405301",
+    "overallScore": 84,
+    "scores": {
+      "contentQuality": 78,
+      "confidence": 83,
+      "communication": 86,
+      "fluency": 85,
+      "grammar": 92,
+      "presentationFlow": 83,
+      "timeManagement": 75
+    },
+    "metrics": {
+      "durationSeconds": 39,
+      "totalWords": 64,
+      "wpm": 98,
+      "wpmStatus": "Slow",
+      "fillerWordCount": 1,
+      "fillerWordPercentage": 2,
+      "fillerWordsBreakdown": [
+        {
+          "word": "so",
+          "count": 1
+        }
+      ]
+    },
+    "transcript": "so today I will talk about photographs company  inter Corporation did this is my dream company which was founded in July 18 1968 the Founder was Robert wise and Gordon Modi the headquarter this company is instant California USA this company is Patrick girls finger  this company focused on Semiconductor memory chip and microprocessor evolution in 1971 introduce the word first commercial microprocessor   IBM",
+    "strongAreas": [
+      "Articulated core message clearly with 64 total words spoken.",
+      "Maintained a solid baseline pace averaging 98 WPM.",
+      "Strong alignment with presentation slides and key takeaways."
+    ],
+    "weakAreas": [
+      "Identified 1 filler word instances (so: 1).",
+      "Transitions between problem and solution could be smoother."
+    ],
+    "suggestions": [
+      "Incorporate deliberate 1.5-second pauses after key numbers or value propositions.",
+      "Practice vocalizing pauses silently instead of using filler phrases.",
+      "Maintain direct eye contact and emphasize key slide titles at the start of each section."
+    ],
+    "summary": "Solid presentation performance with an overall score of 84/100. Focused practice on pacing and transition control will make your pitch exceptional.",
+    "_id": "id_303haocs41786085557870",
+    "createdAt": "2026-08-07T06:52:37.870Z"
+  },
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "presentationId": "id_c312xq7h21786086590472",
+    "presentationTitle": "CAP100M CA2  PPT 12405301",
+    "overallScore": 84,
+    "scores": {
+      "contentQuality": 75,
+      "confidence": 85,
+      "communication": 86,
+      "fluency": 88,
+      "grammar": 92,
+      "presentationFlow": 83,
+      "timeManagement": 75
+    },
+    "metrics": {
+      "durationSeconds": 6,
+      "totalWords": 3,
+      "wpm": 30,
+      "wpmStatus": "Slow",
+      "fillerWordCount": 0,
+      "fillerWordPercentage": 0,
+      "fillerWordsBreakdown": []
+    },
+    "transcript": "Jagah Nahin Hai",
+    "strongAreas": [
+      "Articulated core message clearly with 3 total words spoken.",
+      "Maintained a solid baseline pace averaging 30 WPM.",
+      "Strong alignment with presentation slides and key takeaways."
+    ],
+    "weakAreas": [
+      "Minor hesitations observed during slide progression.",
+      "Transitions between problem and solution could be smoother."
+    ],
+    "suggestions": [
+      "Incorporate deliberate 1.5-second pauses after key numbers or value propositions.",
+      "Practice vocalizing pauses silently instead of using filler phrases.",
+      "Maintain direct eye contact and emphasize key slide titles at the start of each section."
+    ],
+    "summary": "Solid presentation performance with an overall score of 84/100. Focused practice on pacing and transition control will make your pitch exceptional.",
+    "_id": "id_4tx4fgujw1786086634352",
+    "createdAt": "2026-08-07T07:10:34.352Z"
+  },
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "presentationId": "id_whysq60tc1786113163432",
+    "presentationTitle": "CAP100M CA2  PPT 12405301",
+    "overallScore": 83,
+    "scores": {
+      "contentQuality": 76,
+      "confidence": 83,
+      "communication": 86,
+      "fluency": 85,
+      "grammar": 92,
+      "presentationFlow": 83,
+      "timeManagement": 75
+    },
+    "metrics": {
+      "durationSeconds": 8,
+      "totalWords": 28,
+      "wpm": 210,
+      "wpmStatus": "Fast",
+      "fillerWordCount": 1,
+      "fillerWordPercentage": 4,
+      "fillerWordsBreakdown": [
+        {
+          "word": "so",
+          "count": 1
+        }
+      ]
+    },
+    "transcript": "hi baby how are you so today we will be learning about product based company submitted by Aman Kumar submitted to Kumar Vishal  Intel Corporation founded in July",
+    "strongAreas": [
+      "Articulated core message clearly with 28 total words spoken.",
+      "Maintained a solid baseline pace averaging 210 WPM.",
+      "Strong alignment with presentation slides and key takeaways."
+    ],
+    "weakAreas": [
+      "Identified 1 filler word instances (so: 1).",
+      "Speaking pace (210 WPM) was slightly rapid."
+    ],
+    "suggestions": [
+      "Incorporate deliberate 1.5-second pauses after key numbers or value propositions.",
+      "Practice vocalizing pauses silently instead of using filler phrases.",
+      "Maintain direct eye contact and emphasize key slide titles at the start of each section."
+    ],
+    "summary": "Solid presentation performance with an overall score of 83/100. Focused practice on pacing and transition control will make your pitch exceptional.",
+    "_id": "id_1rbw9erhf1786113194631",
+    "createdAt": "2026-08-07T14:33:14.631Z"
+  }
+]

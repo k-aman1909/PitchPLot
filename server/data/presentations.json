@@ -1,0 +1,148 @@
+[
+  {
+    "userId": "id_ppy20vd5b1788857276864",
+    "title": "class presentation",
+    "fileUrl": "/uploads/file-1788954370884-491722126.pptx",
+    "pdfUrl": "/uploads/file-1788954370884-491722126_rendered.pdf",
+    "fileName": "class presentation.pptx",
+    "fileType": "pptx",
+    "fileSize": 65683,
+    "slideCount": 9,
+    "slides": [
+      {
+        "slideNumber": 1,
+        "title": "Digital Way of",
+        "content": "Digital Way of\nBusiness Records\nTeam Members:\nChetna , Aman , Ritesh",
+        "bulletPoints": [
+          "Business Records",
+          "Team Members:",
+          "Chetna , Aman , Ritesh"
+        ],
+        "keyTakeaway": "Business Records",
+        "images": []
+      },
+      {
+        "slideNumber": 2,
+        "title": "Limitation of using register",
+        "content": "Limitation of using register\nError-Prone\n:\nHuman Errors\n: Manual entry can lead to mistakes such as miscalculations or incorrect data entries.\nLegibility Issues\n: Handwritten records may be hard to read or decipher, leading to further errors.\nTime-Consuming\n:\nSlow Updates\n: Updating or retrieving data from a register is often slower than using digital systems, which can be inefficient for managing large volumes of information.\nManual Calculations\n: Calculations and summaries must be done manually, which can be time-consuming and prone to error.",
+        "bulletPoints": [
+          "Error-Prone",
+          ":",
+          "Human Errors",
+          ": Manual entry can lead to mistakes such as miscalculations or incorrect data entries.",
+          "Legibility Issues",
+          ": Handwritten records may be hard to read or decipher, leading to further errors.",
+          "Time-Consuming",
+          ":"
+        ],
+        "keyTakeaway": "Error-Prone",
+        "images": []
+      },
+      {
+        "slideNumber": 3,
+        "title": "Limited Accessibility",
+        "content": "Limited Accessibility\n:\nPhysical Access\n: Registers are physically stored, so accessing them requires being in the location where they are kept, which is less convenient than digital access from anywhere.\nSharing Information\n: Sharing data with others or across locations is cumbersome, requiring physical copies or manual communication.\nData Security Risks\n:\nPhysical Security\n: Registers are vulnerable to theft, loss, or damage from physical hazards (e.g., fire, water).\nLack of Backup\n: There is no automatic backup for physical records, making data recovery difficult if records are lost or damaged.\nStorage Issues\n:\nSpace Requirements\n: Physical records require physical storage space, which can become impractical as data volume grows.\nOrganization\n: Managing and organizing large volumes of physical records can be challenging and inefficient.",
+        "bulletPoints": [
+          ":",
+          "Physical Access",
+          ": Registers are physically stored, so accessing them requires being in the location where they are kept, which is less convenient than digital access from anywhere.",
+          "Sharing Information",
+          ": Sharing data with others or across locations is cumbersome, requiring physical copies or manual communication.",
+          "Data Security Risks",
+          ":",
+          "Physical Security"
+        ],
+        "keyTakeaway": ":",
+        "images": []
+      },
+      {
+        "slideNumber": 4,
+        "title": "Limited Analysis and Reporting",
+        "content": "Limited Analysis and Reporting\n:\nManual Analysis\n: Analyzing data or generating reports from physical records requires manual effort and can be cumbersome.\nLack of Advanced Tools\n: Physical records lack the advanced analytical tools and features available in digital systems, such as data visualization and complex queries.",
+        "bulletPoints": [
+          ":",
+          "Manual Analysis",
+          ": Analyzing data or generating reports from physical records requires manual effort and can be cumbersome.",
+          "Lack of Advanced Tools",
+          ": Physical records lack the advanced analytical tools and features available in digital systems, such as data visualization and complex queries."
+        ],
+        "keyTakeaway": ":",
+        "images": []
+      },
+      {
+        "slideNumber": 5,
+        "title": "Problems And Solutions",
+        "content": "Problems And Solutions\nTrust Issues:\nResearch and Reviews: Share independent reviews and testimonials from other users. Highlight any certifications or endorsements the app might have.\nTrial Period: Offer a trial period where your friends can test the app's features without committing long-term. This can help build trust and demonstrate its reliability.\nTransparency: Provide clear information about the app’s security measures and data privacy policies.\nCertainly! Addressing these challenges requires a mix of practical solutions and persuasive communication. Here are some strategies to overcome each obstacle:",
+        "bulletPoints": [
+          "Trust Issues:",
+          "Research and Reviews: Share independent reviews and testimonials from other users. Highlight any certifications or endorsements the app might have.",
+          "Trial Period: Offer a trial period where your friends can test the app's features without committing long-term. This can help build trust and demonstrate its reliability.",
+          "Transparency: Provide clear information about the app’s security measures and data privacy policies.",
+          "Certainly! Addressing these challenges requires a mix of practical solutions and persuasive communication. Here are some strategies to overcome each obstacle:"
+        ],
+        "keyTakeaway": "Trust Issues:",
+        "images": []
+      },
+      {
+        "slideNumber": 6,
+        "title": "Lack of Features:",
+        "content": "Lack of Features:\nFeature Comparison: Compare the app’s features with those of established tools, emphasizing any unique advantages or improvements.\nCustom Solutions: Highlight how the app can be customized or how certain features can be adapted to meet their needs.\nCompatibility Concerns:\nIntegration Guides: Provide documentation or guides on how to integrate the app with their existing systems .\nTest Compatibility: Set up a test environment to demonstrate how the app works with their current setup before making a full transition.",
+        "bulletPoints": [
+          "Feature Comparison: Compare the app’s features with those of established tools, emphasizing any unique advantages or improvements.",
+          "Custom Solutions: Highlight how the app can be customized or how certain features can be adapted to meet their needs.",
+          "Compatibility Concerns:",
+          "Integration Guides: Provide documentation or guides on how to integrate the app with their existing systems .",
+          "Test Compatibility: Set up a test environment to demonstrate how the app works with their current setup before making a full transition."
+        ],
+        "keyTakeaway": "Feature Comparison: Compare the app’s features with those of established tools, emphasizing any unique advantages or improvements.",
+        "images": []
+      },
+      {
+        "slideNumber": 7,
+        "title": "Storage Issues:",
+        "content": "Storage Issues:\nSpace Requirements: Physical records require physical storage space, which can become impractical as data volume grows .\nOrganization: Managing and organizing large volumes of physical records can be challenging and inefficient.\nLimited Analysis and Reporting:\nManual Analysis: Analyzing data or generating reports from physical records requires manual effort and can be cumbersome .\nLack of Advanced Tools: Physical records lack the advanced analytical tools and features available in digital systems, such as data visualization and complex queries.",
+        "bulletPoints": [
+          "Space Requirements: Physical records require physical storage space, which can become impractical as data volume grows .",
+          "Organization: Managing and organizing large volumes of physical records can be challenging and inefficient.",
+          "Limited Analysis and Reporting:",
+          "Manual Analysis: Analyzing data or generating reports from physical records requires manual effort and can be cumbersome .",
+          "Lack of Advanced Tools: Physical records lack the advanced analytical tools and features available in digital systems, such as data visualization and complex queries."
+        ],
+        "keyTakeaway": "Space Requirements: Physical records require physical storage space, which can become impractical as data volume grows .",
+        "images": []
+      },
+      {
+        "slideNumber": 8,
+        "title": "Inefficiencies in Data Retrieval:",
+        "content": "Inefficiencies in Data Retrieval:\nSearch and Retrieval: Finding specific information in a physical register can be slow and labor-intensive compared to digital searches.\nData Loss: Important information might be lost or overlooked due to poor organization or record-keeping practices..\nDifficulty in Maintaining Data Integrity:\nUpdates and Revisions: Updating or revising records can be messy and prone to errors, affecting data integrity.\\\nVersion Control: Keeping track of different versions or updates of records is challenging without a clear system.",
+        "bulletPoints": [
+          "Search and Retrieval: Finding specific information in a physical register can be slow and labor-intensive compared to digital searches.",
+          "Data Loss: Important information might be lost or overlooked due to poor organization or record-keeping practices..",
+          "Difficulty in Maintaining Data Integrity:",
+          "Updates and Revisions: Updating or revising records can be messy and prone to errors, affecting data integrity.\\",
+          "Version Control: Keeping track of different versions or updates of records is challenging without a clear system."
+        ],
+        "keyTakeaway": "Search and Retrieval: Finding specific information in a physical register can be slow and labor-intensive compared to digital searches.",
+        "images": []
+      },
+      {
+        "slideNumber": 9,
+        "title": "Lack of Automation:",
+        "content": "Lack of Automation:\nNo Automated Processes: There are no automated features like reminders, alerts, or scheduled updates that digital systems provide.\\\nManual Data Entry: All data entry and updates must be done manually, which is labor-intensive and prone to errors.\nScalability Issues:\nGrowth Challenges: As the amount of data grows, physical registers become increasingly impractical and unwieldy.\nAdaptability: Physical systems are less adaptable to changes in data management needs or technological advancements.",
+        "bulletPoints": [
+          "No Automated Processes: There are no automated features like reminders, alerts, or scheduled updates that digital systems provide.\\",
+          "Manual Data Entry: All data entry and updates must be done manually, which is labor-intensive and prone to errors.",
+          "Scalability Issues:",
+          "Growth Challenges: As the amount of data grows, physical registers become increasingly impractical and unwieldy.",
+          "Adaptability: Physical systems are less adaptable to changes in data management needs or technological advancements."
+        ],
+        "keyTakeaway": "No Automated Processes: There are no automated features like reminders, alerts, or scheduled updates that digital systems provide.\\",
+        "images": []
+      }
+    ],
+    "fullText": " Slide 1: Digital Way of\nBusiness Records\nTeam Members:\nChetna , Aman , Ritesh Slide 2: Limitation of using register\nError-Prone\n:\nHuman Errors\n: Manual entry can lead to mistakes such as miscalculations or incorrect data entries.\nLegibility Issues\n: Handwritten records may be hard to read or decipher, leading to further errors.\nTime-Consuming\n:\nSlow Updates\n: Updating or retrieving data from a register is often slower than using digital systems, which can be inefficient for managing large volumes of information.\nManual Calculations\n: Calculations and summaries must be done manually, which can be time-consuming and prone to error. Slide 3: Limited Accessibility\n:\nPhysical Access\n: Registers are physically stored, so accessing them requires being in the location where they are kept, which is less convenient than digital access from anywhere.\nSharing Information\n: Sharing data with others or across locations is cumbersome, requiring physical copies or manual communication.\nData Security Risks\n:\nPhysical Security\n: Registers are vulnerable to theft, loss, or damage from physical hazards (e.g., fire, water).\nLack of Backup\n: There is no automatic backup for physical records, making data recovery difficult if records are lost or damaged.\nStorage Issues\n:\nSpace Requirements\n: Physical records require physical storage space, which can become impractical as data volume grows.\nOrganization\n: Managing and organizing large volumes of physical records can be challenging and inefficient. Slide 4: Limited Analysis and Reporting\n:\nManual Analysis\n: Analyzing data or generating reports from physical records requires manual effort and can be cumbersome.\nLack of Advanced Tools\n: Physical records lack the advanced analytical tools and features available in digital systems, such as data visualization and complex queries. Slide 5: Problems And Solutions\nTrust Issues:\nResearch and Reviews: Share independent reviews and testimonials from other users. Highlight any certifications or endorsements the app might have.\nTrial Period: Offer a trial period where your friends can test the app's features without committing long-term. This can help build trust and demonstrate its reliability.\nTransparency: Provide clear information about the app’s security measures and data privacy policies.\nCertainly! Addressing these challenges requires a mix of practical solutions and persuasive communication. Here are some strategies to overcome each obstacle: Slide 6: Lack of Features:\nFeature Comparison: Compare the app’s features with those of established tools, emphasizing any unique advantages or improvements.\nCustom Solutions: Highlight how the app can be customized or how certain features can be adapted to meet their needs.\nCompatibility Concerns:\nIntegration Guides: Provide documentation or guides on how to integrate the app with their existing systems .\nTest Compatibility: Set up a test environment to demonstrate how the app works with their current setup before making a full transition. Slide 7: Storage Issues:\nSpace Requirements: Physical records require physical storage space, which can become impractical as data volume grows .\nOrganization: Managing and organizing large volumes of physical records can be challenging and inefficient.\nLimited Analysis and Reporting:\nManual Analysis: Analyzing data or generating reports from physical records requires manual effort and can be cumbersome .\nLack of Advanced Tools: Physical records lack the advanced analytical tools and features available in digital systems, such as data visualization and complex queries. Slide 8: Inefficiencies in Data Retrieval:\nSearch and Retrieval: Finding specific information in a physical register can be slow and labor-intensive compared to digital searches.\nData Loss: Important information might be lost or overlooked due to poor organization or record-keeping practices..\nDifficulty in Maintaining Data Integrity:\nUpdates and Revisions: Updating or revising records can be messy and prone to errors, affecting data integrity.\\\nVersion Control: Keeping track of different versions or updates of records is challenging without a clear system. Slide 9: Lack of Automation:\nNo Automated Processes: There are no automated features like reminders, alerts, or scheduled updates that digital systems provide.\\\nManual Data Entry: All data entry and updates must be done manually, which is labor-intensive and prone to errors.\nScalability Issues:\nGrowth Challenges: As the amount of data grows, physical registers become increasingly impractical and unwieldy.\nAdaptability: Physical systems are less adaptable to changes in data management needs or technological advancements.",
+    "category": "Investor Pitch",
+    "_id": "id_310qqnli21788954388909",
+    "createdAt": "2026-09-09T11:46:28.909Z"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "questionId": "id_iitej73cj1786085573729",
+    "presentationId": "id_p54uqgnwt1786085458500",
+    "userTranscript": "not idae",
+    "audioUrl": "",
+    "score": 71,
+    "feedback": "Good effort! Your response comprised 2 words and clearly addressed the core theme of the question.",
+    "keyPointsCovered": [
+      "Unique value proposition",
+      "Defensibility & moat"
+    ],
+    "missingPoints": [
+      "Customer feedback validation"
+    ],
+    "improvementTips": [
+      "State your main point directly in the first sentence.",
+      "Use concise industry examples or data metrics to support your conclusion."
+    ],
+    "modelAnswer": "An exemplary response directly addresses 'What is your primary competitive differentiator compared to existing market alternatives for CAP100M CA2  PPT 12405301?' by stating the main strategic goal, supporting it with 2 concrete metrics, and concluding with a clear timeline.",
+    "_id": "id_77wwjoxge1786085602626",
+    "createdAt": "2026-08-07T06:53:22.626Z"
+  },
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "questionId": "id_mumc4errl1786088679809",
+    "presentationId": "id_17zo1mk4g1786088266958",
+    "userTranscript": "Our primary competitive differentiator is the combination of simplicity, efficiency, and user-centric design. Unlike existing alternatives that may focus only on core functionality, our solution provides an integrated experience that reduces complexity, improves productivity, and delivers faster results. We address specific pain points faced by users through a more accessible, scalable, and cost-effective approach, creating greater value compared to traditional market alternatives",
+    "audioUrl": "",
+    "score": 91,
+    "feedback": "Good effort! Your response comprised 62 words and clearly addressed the core theme of the question.",
+    "keyPointsCovered": [
+      "Unique value proposition",
+      "Defensibility & moat"
+    ],
+    "missingPoints": [
+      "Customer feedback validation"
+    ],
+    "improvementTips": [
+      "State your main point directly in the first sentence.",
+      "Use concise industry examples or data metrics to support your conclusion."
+    ],
+    "modelAnswer": "An exemplary response directly addresses 'What is your primary competitive differentiator compared to existing market alternatives for CAP100M CA2  PPT 12405301?' by stating the main strategic goal, supporting it with 2 concrete metrics, and concluding with a clear timeline.",
+    "_id": "id_ywg6ita8z1786089876450",
+    "createdAt": "2026-08-07T08:04:36.450Z"
+  },
+  {
+    "userId": "id_epwbe7l4e1786080770270",
+    "questionId": "id_ppy57mc8f1786092148410",
+    "presentationId": "id_17zo1mk4g1786088266958",
+    "userTranscript": "hello this is my answer   yes",
+    "audioUrl": "",
+    "score": 72,
+    "feedback": "Good effort! Your response comprised 6 words and clearly addressed the core theme of the question.",
+    "keyPointsCovered": [
+      "Cloud infrastructure design",
+      "Database optimization"
+    ],
+    "missingPoints": [
+      "Performance monitoring"
+    ],
+    "improvementTips": [
+      "State your main point directly in the first sentence.",
+      "Use concise industry examples or data metrics to support your conclusion."
+    ],
+    "modelAnswer": "An exemplary response directly addresses 'How do you ensure scalability and reliability as user demand grows tenfold?' by stating the main strategic goal, supporting it with 2 concrete metrics, and concluding with a clear timeline.",
+    "_id": "id_xz862hwpv1786092210598",
+    "createdAt": "2026-08-07T08:43:30.598Z"
+  }
+]
