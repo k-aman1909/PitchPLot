@@ -11,5 +11,18 @@
     "isEmailVerified": true,
     "_id": "id_ppy20vd5b1788857276864",
     "createdAt": "2026-09-08T08:47:56.864Z"
+  },
+  {
+    "name": "aman",
+    "email": "aman191999@gmail.com",
+    "password": "$2a$10$Amio2usd.jQUtxw7864cheut8Zko8Sg7qafeD3VorqwIbzZkOJmxy",
+    "avatar": "",
+    "bio": "Presentation enthusiast",
+    "plan": "free",
+    "subscriptionStatus": "inactive",
+    "freeSessionsUsed": 0,
+    "isEmailVerified": true,
+    "_id": "id_j97vfqvxb1789470162416",
+    "createdAt": "2026-09-15T11:02:42.416Z"
   }
 ]
